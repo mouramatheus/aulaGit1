@@ -43,6 +43,12 @@
         timezone_offset_get
         testeasda
         transliterator_create
+
+
+        Testes recebidos enviando do windows para o mac 
+        teste12312
+        teste 123123123
+        teste 1231231231231
         
     </body>
 
